@@ -131,9 +131,9 @@ body{
     border-radius: 5px;
 }
 .slide-col_text{
-    color: rgb(230, 171, 63);
+    color: rgb(255, 145, 0);
     margin-bottom: 2rem;
-    border: 1px solid rgb(38, 51, 39);
+    
     height: 18rem;
     width: 97%;
 }
@@ -152,7 +152,7 @@ body{
 }
 .last-col{
     border: 1px solid rgb(29, 24, 24);
-    color: white;
+    color: rgb(228, 222, 222);
 }
 .tetx-row-about{
 
@@ -164,10 +164,10 @@ body{
     
 } 
 .col p {
-    color:rgb(238, 185, 70);
+    
     font-family: "Barlow", sans-serif;
     font-size: 17px;
-    border: 1px solid rgb(22, 12, 12);
+    color: rgb(255, 145, 0);
     margin-top: 5rem;
 }
 }
