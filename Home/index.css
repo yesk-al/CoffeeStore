@@ -84,9 +84,10 @@ body{
 .text-blocks{
     font-family: barlow;
     text-align: center;
+    font-size: 25PX;
 }
 .text-blocks a{
-    color: white;
+    color: rgb(233, 223, 223);
 }
 
 .button {

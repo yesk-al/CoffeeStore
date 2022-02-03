@@ -105,7 +105,7 @@ font-size: 23px;
 .grid-item2 {
   color: white;
   border: 1px solid rgba(78, 70, 70, 0.8);
-  padding: 180px;
+  padding: 190px;
   font-size: 14px;
   text-align: center;
   
@@ -116,8 +116,12 @@ font-size: 23px;
   background-color: #010a11;
   padding: 1px; 
 }
+.grid-item2 input{
+    padding: 9px 10px;
+
+}
 .grid-item3{
-height: 18rem;
+height: 20rem;
 }
 .grid-item3 p{
     color: white;
@@ -125,8 +129,15 @@ height: 18rem;
     float: left;
     margin-left: 3rem;
     margin-right: 1rem;
+    margin-top: 1rem;
 }
-
+#submit{
+    text-align: center;
+    padding: 8px 49px;
+    border-radius: 34px;
+    background-color: rgb(216, 192, 140);
+    border: 2px solid white;
+}
 /*---------------body--ends here--------*/
 
 
@@ -173,6 +184,13 @@ height: 35rem;
     
 }
 
+#submit{
+    text-align: left;
+    padding: 8px 49px;
+    border-radius: 34px;
+    background-color: rgb(216, 192, 140);
+    border: 2px solid white;
+}
  }
 /*------------------body @ media ends------*/
 
